@@ -157,7 +157,3 @@ Contributions are welcome! Please feel free to submit issues, feature requests, 
 ## License
 
 This project is open source. Feel free to use, modify, and distribute according to your needs.
-
-## Author
-
-Created for academic and administrative use in university computing environments, with a focus on secure, reliable remote filesystem access.
