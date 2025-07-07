@@ -3,9 +3,10 @@
 <div align="center">
   <img src="./img/sshfs-icon.png" alt="SSHFS GUI Icon" width="128" height="128">
   <p><em>A complete graphical interface for SSHFS with advanced authentication and configuration options</em></p>
+
+  <img src="./img/sshfs-gui-screenshot.png" alt="GUI with sample config" width="500"/>
 </div>
 
-![SSHFS GUI Screenshot](./img/sshfs-gui-screenshot.png)
 
 ## Overview
 
