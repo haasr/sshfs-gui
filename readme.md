@@ -1,7 +1,7 @@
 # SSHFS GUI
 
 <div align="center">
-  <img src="./img/sshfs-gui-icon.png" alt="SSHFS GUI Icon" width="128" height="128">
+  <img src="./img/sshfs-icon.png" alt="SSHFS GUI Icon" width="128" height="128">
   <p><em>A complete graphical interface for SSHFS with advanced authentication and configuration options</em></p>
 </div>
 
