@@ -233,6 +233,7 @@ class SSHFSGui:
     
     def log_message(self, message):
         """Add message to log"""
+        print(message)
         self.log_text.insert(tk.END, f"{message}\n")
         self.log_text.see(tk.END)
         self.root.update_idletasks()
